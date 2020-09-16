@@ -1,0 +1,265 @@
+.container1 {
+    
+    
+
+}
+
+.background {
+
+    
+}
+
+.wrapper {
+    
+    text-align: center;
+    font-family: sans-serif;
+   
+    
+
+
+}
+
+
+.watchParty {
+    color: white;
+    
+}
+
+.header1 {
+    margin-top: -965px;
+    margin-left: 25px;
+
+
+}
+
+.kastButton  {
+    display: flex;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    
+
+}
+
+#fox {
+    float: 1px;
+
+}
+
+
+
+.right5Buttons {
+
+    display: flex;
+    flex-flow: row;
+    justify-content: end;
+    padding-left: 1250px;
+    margin-top: -125px;
+    
+    
+
+}
+
+.aboutButton {
+    flex:1;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+}
+
+.helpButton {
+    flex:1;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+}  
+
+.communityButton {
+
+    flex:1;  background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+}
+
+.premiumButton {
+
+    flex:1;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+}
+
+.openKast1 {
+    flex:1;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+}
+
+.laptop {
+    margin-top: 20px;
+    
+
+}
+
+.text1 {
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+    padding-bottom: -15px;
+    font-size: 12mm;
+    margin-top: -20px;
+
+}
+
+.text2 {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 5mm;
+    margin-top: -13px;
+}
+
+.openKast2 {
+    margin-top: 0px;
+    font-size: 3mm;
+    background-color: #f0960e; /* Green */
+    border: none;
+    color: white;
+    padding: 0px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor:pointer;
+    overflow: hidden;
+
+}
+
+.featuredIn {
+    margin-top: 130px;
+    
+    
+
+}
+
+.featured-header {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header2 {
+    font-family: sans-serif;
+    font-weight: bold;
+    /*
+    margin-top: -500px;
+    margin-right: 860px;
+    */
+    text-align: center;
+    font-size: 30px;
+    margin-top: -500px;
+
+}
+/
+.image-div {
+    margin: 500px;
+} 
+
+.image-container-1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 70px;
+   
+}
+
+.image-container-1 img {
+    flex-direction: row;
+   
+}
+
+.image-container-2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 70px;
+   
+}
+
+.image-container-2 img {
+    flex-direction: row;
+    
+
+}
+
+/*#wired {
+    flex: 1;
+    
+
+}
+
+#nerdist {
+
+    flex: 1;
+    
+
+
+}
+
+#yahoo {
+
+    flex: 1;
+    
+
+}
+
+#evening {
+    flex: 1;
+    
+
+
+}
+
+#bbc {
+    flex: 1;
+   
+
+
+}
+
+#daily {
+    flex: 1;
+    
+
+}
+*/
+
+h2 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 21px;
+    text-align: center;
+
+}
+
+h3 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 17px;
+    text-align: center;
+    margin-left: 725px;
+    margin-bottom: 75px;
+}
